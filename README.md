@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @behzadmizani
 - 👀 I’m interested in programming Specializing in cybersecurity
-- 🌱 I’m currently learning every day about programming 
+- 🌱 I’m currently learning every day about programming  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... on linkdin and twitter search Behzad mizani
 
