@@ -14,7 +14,6 @@ root = tkinter.Tk()
 
 input_filez = filedialog.askopenfilenames(parent=root, title='Select Resualt Files as TXT')
 template_file = filedialog.askopenfilename(parent=root, title='Select Template File as XLSX')
-#output_file = 'C:/Users/mizani/Documents/audit proj/beta 0.92/output.xlsx'
 output_file = filedialog.asksaveasfilename(parent=root, title='Save Output File as XLSX',defaultextension=".xlsx")
 
 # Open xlsx template
